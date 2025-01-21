@@ -1,0 +1,9 @@
+hello, this is a random text file!
+line 2: lorem ipsum dolor sit amet, consectetur adipiscing elit.
+line 3: 42, bananas, and a random number: 837
+line 4: the quick brown fox jumps over the lazy dog.
+line 5: special characters: # @ $ % ^ & * ( ) < > ? 
+line 6: another line with random text... abracadabra 123
+line 7: a fun fact: node.js uses the v8 javascript engine!
+line 8: λ - an example of a greek letter in text.
+end of file. go write some code now :)

@@ -1,0 +1,16 @@
+{
+  "name": "class02",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node fs_read_file_examples.js",
+    "dev": "nodemon fs_read_file_examples.js"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
